@@ -1,5 +1,5 @@
-package com.exemplo;
+// package com.exemplo;
 
-public class test {
+// public class test {
 
-}
+// }

@@ -18,6 +18,8 @@
 
 # Sistema de Gerenciamento de um Restaurante
 
+<img src="public/assets/image.png" />
+
 <!-- Adicionando ícones de linguagem de programação -->
 
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/pt-BR/)
